@@ -11,6 +11,7 @@ Realizar un análisis comparativo de las tasas de suicidio juvenil en diferentes
 2. Horas de trabajo y descanso
 
 Demostrar, a través de la evolución de datos, cómo ha evolucionado la rutina laboral del trabajador promedio, explorando las transformaciones en variaciones en el tiempo dedicado al ocio y la productividad. Se profundizará en los impactos que ha tenido la reducción de la jornada laboral a 40 horas y cómo estos cambios han moldeado la vida cotidiana y el bienestar de los trabajadores.
+
 ![alt text](Tarea01/Jornada-Laboral-y-Horas-Extraordinarias.fw_-1.png)
 
 3. Dupes de ropa de lujo
